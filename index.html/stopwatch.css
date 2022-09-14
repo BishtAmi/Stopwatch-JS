@@ -1,0 +1,159 @@
+/* window.onfocus and window.onblur */
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.top-left {
+  position: absolute;
+  top: 60px;
+  left: 16px;
+}
+
+.top-right {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+}
+
+.bottom-right {
+  position: absolute;
+  top: 600px;
+  right: 16px;
+}
+.timer
+{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered {
+  position: absolute;
+  top: 70%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+.centered {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centeredt {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+ .button {
+  background-color: #039b63;
+  border: none;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  margin: 4px 2px;
+}
+
+  .button1 {
+  background-color: #c10303;
+  border: none;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  margin: 4px 2px;
+}
+
+ .button2 {
+  background-color: #0404aa;
+  border: none;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  margin: 4px 2px;
+}
+
+ .button5 {
+  border-radius: 50%;
+  cursor: pointer;
+}
+.time{
+  height: 100px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  box-shadow: 10px 10px 20px rgba(0,0,0,0.09);
+  padding: 0 10px;
+}
+.time span{
+  width: 100px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 500;
+  color: #333;
+  
+}
+.time span.colon{
+  width: 10px;
+}
+.time span.ms-colon,
+.time span.millisecond{
+  color: #7D2Ae8;
+}
+ .active,
+ .stopActive{
+  pointer-events: none;
+  opacity: 0.7;
+}
