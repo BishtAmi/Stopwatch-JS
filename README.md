@@ -5,10 +5,9 @@ Connect with me for future projects,
 Feel free to contribute in this project.
 Website link: https://amitwebspace2003.w3spaces.com/
 
-
 Interface -->
-![](Photo1.png)
-![](photo2.png)
+![](index/Photo1.png)
+![](index/photo2.png)
 
 
 
