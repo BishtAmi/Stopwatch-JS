@@ -7,6 +7,8 @@ Website link: https://amitwebspace2003.w3spaces.com/
 
 
 Interface -->
+![](Photo1.png)
+![](photo2.png)
 
 
 
