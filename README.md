@@ -6,8 +6,8 @@ Feel free to contribute in this project.
 Website link: https://amitwebspace2003.w3spaces.com/
 
 Interface -->
-![](index/Photo1.png)
-![](index/photo2.png)
+![](https://github.com/BishtAmi/Stopwatch-JS/blob/master/index/Photo1.png)
+![](https://github.com/BishtAmi/Stopwatch-JS/blob/master/index/photo2.png)
 
 
 
